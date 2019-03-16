@@ -22,7 +22,7 @@ bakgrunnar = (
 # Súlur
 sulur = (
     "myndirnarb2/sulur1.png",
-    "myndirnarb2/sulur2.png", 
+    "myndirnarb2/sulur2.png",
 )
 
 try:
